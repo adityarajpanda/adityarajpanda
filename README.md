@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
-<h3 align="center">🚀 Data Engineer | Cloud • Big Data • AI-Enabled Pipelines</h3>
+<h3 align="center">🚀 Data Engineer | Cloud • Big Data • Generative and Agentic AI</h3>
 
 ---
 
@@ -40,7 +40,7 @@ Currently, I help the **Procurement Department in Jio Hydro Carbon IT** set up *
 > Exploring the intersection of **LLMs** & **Data Engineering**
 
 - 📚 Retrieval-Augmented Generation (RAG) design & optimization
-- 🔗 **Langchain** for building LLM-powered pipelines and chaining tools
+- 🔗 **Langchain**, **FastAPI** and **Pydantic** for building LLM-powered pipelines and chaining tools
 - 🧠 **CrewAI** for orchestrating multi-agent LLM systems in data workflows
 - 🧠 Using **Vector Databases** like FAISS, ChromaDB for semantic search
 - ⚗️ Prototyping LLM-based analytics workflows on enterprise data
