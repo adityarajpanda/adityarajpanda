@@ -17,8 +17,7 @@ Currently, I help the **Procurement Department in Jio Hydro Carbon IT** set up *
 - ☁️ Cloud-native data engineering on **Azure**, **AWS**, and **GCP**
 - 🛠️ Develop & orchestrate pipelines using **PySpark**, **Airflow**, **ADF**, and **Databricks**
 - 🧱 Data Modeling, Partitioning, Performance Optimization
-- 🧪 Build, test & deploy production-grade APIs using **Flask**
-- 🔍 Data ingestion from diverse sources using **Kafka**, **Hive**, and **ElasticSearch**
+- 🧪 Build, test & deploy production-grade APIs using **Flask/FastAPI**
 - 🧰 CI/CD & DevOps for data workflows using **Azure DevOps**
 
 ---
@@ -30,7 +29,7 @@ Currently, I help the **Procurement Department in Jio Hydro Carbon IT** set up *
 | 💻 Languages     | Python, SQL, Bash                                                       |
 | 🔁 Pipelines     | PySpark, Azure Data Factory, Airflow, Databricks                        |
 | 🛢️ Databases     | PostgreSQL, MySQL, Oracle SQL Developer, Hive, Elasticsearch                           |
-| ☁️ Cloud         | Azure, AWS S3, GCP Dataproc                                              |
+| ☁️ Cloud         | Azure, AWS, GCP                                              |
 | 📦 DevOps        | Azure DevOps, GitHub Actions, Docker                                     |
 | 🔍 Monitoring     | Kubernetes Dashboard, Kibana, custom logs via Airflow     |
 
@@ -43,7 +42,6 @@ Currently, I help the **Procurement Department in Jio Hydro Carbon IT** set up *
 - 📚 Retrieval-Augmented Generation (RAG) design & optimization
 - 🔗 **Langchain** for building LLM-powered pipelines and chaining tools
 - 🧠 **CrewAI** for orchestrating multi-agent LLM systems in data workflows
-- 📊 **Opik** – an open-source platform for monitoring and evaluating LLM outputs
 - 🧠 Using **Vector Databases** like FAISS, ChromaDB for semantic search
 - ⚗️ Prototyping LLM-based analytics workflows on enterprise data
 
@@ -52,7 +50,6 @@ Currently, I help the **Procurement Department in Jio Hydro Carbon IT** set up *
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/adityarajdev](https://www.linkedin.com/in/adityapanda16/))
-- 🌐 [Portfolio / Blog](https://adityaraj.dev) *(optional)*
 - 📧 Email: arpanda33@gmail.com
 
 ---
