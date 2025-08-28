@@ -49,7 +49,7 @@ Currently, I help the **Procurement Department in Jio Hydro Carbon IT** set up *
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/adityarajdev](https://www.linkedin.com/in/adityapanda16/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/adityapanda16/)
 - 📧 Email: arpanda33@gmail.com
 
 ---
