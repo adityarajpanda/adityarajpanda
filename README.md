@@ -5,7 +5,7 @@
 
 ### 💼 What I Do Best
 
-> 🧠 **Data Engineer @ Jio Platforms** | 3+ Years of Experience
+> 🧠 **Data Engineer** | 3+ Years of Experience
 
 I build data-intensive applications, solve challenging migration problems, and create scalable pipelines to deliver end-to-end sustainable, optimized, and efficient data analytics solutions.
 
